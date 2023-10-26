@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mandallachico
 - 👀 I’m interested in front end development 
-- 🌱 I’m currently learning python and c++
+- 🌱 I’m currently learning Html+CSS
 - 💞️ I’m looking to collaborate on front end codes
 
 <!---
