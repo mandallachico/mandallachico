@@ -42,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=mandallachico&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mandallachico&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 ###
