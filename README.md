@@ -21,6 +21,14 @@
 
 <p align="left">I'm from Brazil. Just a father with bills and the will to succeed by studying.<br><br>- 🔭 I’m studying frontend<br>- 📚 I'm currently learning Html+CSS<br>- ⚡ In my free time, I play volleyball, video games and spend time with my family.</p>
 
+<h3>How to follow my content?</h3>
+
+<p>My posts are split by sessions. Each session equals four(4) months.</p>
+
+<p>In the subtitle you will find:</p> 
+<p>Serie's name, the session's number and the episode's name.</p>
+<p>1. What I have done. 2. How I do it. 3. What I have learned.</p>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -44,5 +52,7 @@
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mandallachico&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a>
 </div>
+
+<p>This readme was made based on <a href="https://github.com/maurodesouza/profile-readme-generator#memo-license">Mauro de Souza's template.</a></p>
 
 ###
