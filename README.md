@@ -27,7 +27,7 @@
 
 <p>In the subtitle you will find:</p> 
 <p>Serie's name, the session's number and the episode's name.</p>
-<p>1. What I have done. 2. How I do it. 3. What I have learned.</p>
+<p>1. What did. 2. How I did. 3. What I did learn.</p>
 
 ###
 
